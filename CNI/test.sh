@@ -1,0 +1,1 @@
+kubectl create deployment nwtest --image busybox --replicas 2 -- sleep infinity
